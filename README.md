@@ -6,6 +6,12 @@
   
   <p align="center">
     <strong>Compilaciones nocturnas y automatizadas con las últimas novedades de <a href="https://github.com/Animetailapp/Animetail">Animetail</a>.</strong>
+     
+    
+  📰 **News:** [Gnews](https://akiled.org)
+
+[![Discord server](https://img.shields.io/discord/1196139193664028762.svg?label=&labelColor=6A7EC2&color=7389D8&logo=discord&logoColor=FFFFFF)](https://discord.gg/fvskrQZb9j)
+[![Gnews](https://img.shields.io/badge/News-Gnews-blue?logo=rss&logoColor=white)](https://akiled.org)
   </p>
 
   <p align="center">
