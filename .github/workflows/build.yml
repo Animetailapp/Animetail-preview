@@ -18,9 +18,6 @@ on:
         required: false
         type: boolean
 
-env:
-  MIHON_GITHUB_RELEASE: true
-  ANIMETAIL_GITHUB_RELEASE: true
 
 jobs:
   check:
